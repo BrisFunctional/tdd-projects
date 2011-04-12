@@ -1,0 +1,11 @@
+# IDEA stuff
+.idea
+*.iml
+
+# sbt stuff
+target
+classes
+lib
+lib_managed
+src_managed
+boot
